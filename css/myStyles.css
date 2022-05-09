@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+* {
+	font-family: 'Poppins', sans-serif;
+}
+
+.navbar .nav-item a.nav-link {
+	color: #0D0D0D;
+}
+
+.navbar .nav-item a:hover.nav-link {
+	color: #F29727;
+}
+
+
